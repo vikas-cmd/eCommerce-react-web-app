@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eCommerce-react-web-app/static/css/main.db3ac438.css",
-    "main.js": "/eCommerce-react-web-app/static/js/main.6a4212f8.js",
+    "main.js": "/eCommerce-react-web-app/static/js/main.79f65d00.js",
     "static/js/453.7e017c4d.chunk.js": "/eCommerce-react-web-app/static/js/453.7e017c4d.chunk.js",
     "static/media/slick.svg": "/eCommerce-react-web-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/eCommerce-react-web-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/eCommerce-react-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/eCommerce-react-web-app/index.html",
     "main.db3ac438.css.map": "/eCommerce-react-web-app/static/css/main.db3ac438.css.map",
-    "main.6a4212f8.js.map": "/eCommerce-react-web-app/static/js/main.6a4212f8.js.map",
+    "main.79f65d00.js.map": "/eCommerce-react-web-app/static/js/main.79f65d00.js.map",
     "453.7e017c4d.chunk.js.map": "/eCommerce-react-web-app/static/js/453.7e017c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db3ac438.css",
-    "static/js/main.6a4212f8.js"
+    "static/js/main.79f65d00.js"
   ]
 }
